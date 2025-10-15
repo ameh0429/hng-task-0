@@ -1,0 +1,30 @@
+{
+  "name": "hng-task-0",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameh0429/hng-task-0.git"
+  },
+  "keywords": [],
+  "author": "Ameh Mathias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameh0429/hng-task-0/issues"
+  },
+  "homepage": "https://github.com/ameh0429/hng-task-0#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
