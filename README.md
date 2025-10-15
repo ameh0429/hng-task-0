@@ -17,12 +17,13 @@ A simple RESTful API built with Node.js/Express that returns profile information
 - npm
 
 ## Project Setup
-.
+```
 ├── app.js            # Main application file
 ├── package.json      # Project dependencies and scripts
 ├── .env.example      # Environment variables template
 ├── .env              # environment variables (git-ignored)
 └── README.md         # Documentation
+```
 
 ## Installation
 - Clone or create the project directory
